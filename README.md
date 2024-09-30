@@ -30,10 +30,10 @@ python run_point_transform.py
 
 ## Results (need add more result images)
 ### Basic Transformation
-<video src="D:\桌面\demo_1.mp4"></video>
+<video src="demo_1.mp4"></video>
 
 ### Point Guided Deformation:
-<video src="D:\桌面\demo_2.mp4"></video>
+<video src="demo_2.mp4"></video>
 
 ## Acknowledgement
 
