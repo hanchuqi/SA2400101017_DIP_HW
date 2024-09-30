@@ -29,11 +29,14 @@ python run_point_transform.py
 ```
 
 ## Results (need add more result images)
-### Basic Transformation
-<video src="demo_1.mp4"></video>
+### Basic Transformation：
+
+
+
+![demo_1](demo_1.gif)
 
 ### Point Guided Deformation:
-<video src="demo_2.mp4"></video>
+![demo_2](demo_2.gif)
 
 ## Acknowledgement
 
